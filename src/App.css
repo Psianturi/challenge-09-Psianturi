@@ -1,6 +1,11 @@
 .App {
   text-align: center;
   display: flex;
+  flex-direction: column;
+  width: 60%;
+  margin: auto;
+  gap: 14px;
+  padding: 8px 2px;
 }
 
 .header {
